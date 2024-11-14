@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchege1" alt="davidchege1" /></a> </p>
 
 
-- 🌱 I’m currently polishing on **SQL** and **Excel**
+- 🌱 I’m currently polishing on **SQL**
 
 - 💬 Ask me about **Machine learning Models, Data Analysis**
 
