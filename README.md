@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chegedavid1080@gmail.com**
 
-- ⚡ Fun fact **I am A drone Fanatic**
+- ⚡ Fun fact **I am A Drone Aficionado**
 
 <p align="left">
 </p>
